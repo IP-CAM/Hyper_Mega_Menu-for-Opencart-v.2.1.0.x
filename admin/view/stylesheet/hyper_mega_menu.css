@@ -1,0 +1,139 @@
+/*#tab-general .form-group,*/
+/*.custom-menu-title{*/
+    /*display: block;*/
+    /*height: 40px;*/
+    /*padding: 0;*/
+/*}*/
+.tab-navigation {
+    position: relative;
+}
+.tab-navigation .nav {
+    margin-bottom: 20px;
+}
+.tab-navigation .tab-buttons {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+.select-menu-type{
+    /*margin-left: 100px;*/
+}
+.menu-hint{
+    float: left;
+    padding-left: 50px;
+}
+#hyper_sticky_menu_config{
+    display: none;
+}
+#main_category_id{
+    width: 100%;
+}
+.add-new-menu{
+    float: right;
+}
+.custom-menu-title #input-name{
+    width: 75%;
+}
+.settings-row{
+    margin-bottom: 10px;
+}
+.limiter{
+    border: 1px solid #eee;;
+}
+.customizing_theme_title{
+    font-size: 18px;
+    color: #1e91cf;
+    font-weight: 700;
+    margin: 15px 0;
+}
+.customizing-user-settings{
+    /*padding: 0;*/
+}
+#tab-menu-design .pick-a-color-markup .input-group-btn .color-dropdown,
+#tab-design-dropdown-elements .pick-a-color-markup .input-group-btn .color-dropdown{
+    padding: 8px 13px;
+}
+.display-none{
+    display: none;
+}
+.settings-item-configuration,
+.settings-list > .col-sm-12 > .col-sm-2{
+    padding: 0;
+}
+.settings-item-configuration .settings-list{
+    border-left: 1px solid #eee;
+}
+.name-add-menu-element{
+    text-align: center;
+    font-size: 20px;
+}
+.sidebar-item-name{
+    color: #FFF;
+}
+.configuration-settings,
+.sub_tab_configuration_custom_settings,
+.settings-list,
+.sub_tab_configuration_custom_settings > div,
+.sub_tab_configuration_custom_settings > div > div,
+.settings-list > div{
+    padding-right: 0;
+}
+.configuration-settings .configuration-settings-input{
+    width: 100%;
+}
+.sub_tab_configuration_phones_list{
+    background-color: #e6e6e6;
+    border-color: #adadad;
+
+}
+.sub_tab_configuration_phones_list .sidebar-item-name{
+    color: #333;
+}
+.sub_tab_configuration_phones_list i{
+    color: #F00;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.sub_tab_configuration_add_phone_to_list > i{
+    color: #008000;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+.sub_tab_configuration_phones_settings{
+    padding: 0;
+}
+.sub_tab_configuration_custom_phones{
+    margin-bottom: 10px;
+    padding: 0;
+}
+.sub_tab_configuration_custom_phones input.form-control{
+    width: 100%;
+}
+#configuration_settings_tabs{
+    border: none;
+}
+.menu-items-list-panel-heading{
+    padding: 20px 15px;
+}
+
+
+.settings-item-configuration .side-item-name > li {
+     float: none;
+     margin-bottom: 0;
+}
+.settings-item-configuration .side-item-name > li > a {
+    margin: 0;
+    background-color: #cbcfd3;
+}
+.settings-item-configuration .side-item-name > li.active > a {
+
+    background-color: #a8acb0;
+}
+.settings-item-configuration .side-item-name > li > button {
+    margin: 3px 0;
+}
+.iconpicker-container{
+    padding: 0 15px !important;
+}
